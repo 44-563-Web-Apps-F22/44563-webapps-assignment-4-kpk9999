@@ -1,0 +1,82 @@
+.speech {
+    color: black;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+  }
+   .song {
+    color: black;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .direction {
+    color: black;
+    font-size: medium;
+    background-color: rgb(216, 208, 205);
+  font-family: 'Courier New', Courier, monospace;
+  }
+  .direction:hover {
+    color: red;
+    background-color: rgb(113, 66, 69);
+  }
+   .name {
+    color: black;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   
+   .DAME {
+     color: black;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .MEN {
+     color: green;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .WILFRED {
+     color: red;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .POINT {
+     color: blue;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .FAIRFAX {
+     color: pink;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .MERYLL {
+     color: brown;
+      font-size: medium;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .ELSIE {
+        color: black;
+         font-size: medium;
+         font-family: 'Courier New', Courier, monospace;
+       }
+       #singers th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color:violet;
+        color: white;
+      }
+    
+      #singers td, #singers th {
+        border: 1px solid #ddd;
+        padding: 8px;
+      }
+      table, th, td {
+        border: 1px solid black;
+      }
+      .name:hover{
+        color: darkorchid;
+        background-color: skyblue;
+        
+    }
+    
